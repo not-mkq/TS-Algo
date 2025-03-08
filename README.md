@@ -2,7 +2,7 @@
 
 # TS-Algo  
 
-A temporal sequence-based high-entropy optimization algorithm (Python implementation).  
+A temporal sequence-based optimization algorithm (Python implementation).  
 
 ## Usage (For Linux Users)  
 
